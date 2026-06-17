@@ -81,13 +81,42 @@ const READINGS_DATA = [
     subtitle: "الفاتحة",
     category: "quran",
     verses: [
-      { arabic: "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ", latin: "Bismillahirrahmanirrahim", translation: "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang" },
-      { arabic: "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ", latin: "Alhamdulillahi rabbil 'alamin", translation: "Segala puji bagi Allah, Tuhan seluruh alam" },
-      { arabic: "مَالِكِ يَوْمِ الدِّينِ", latin: "Maliki yaumid-din", translation: "Yang Maha Kuasa di hari Pembalasan" },
-      { arabic: "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ", latin: "Iyyaka na'budu wa iyyaka nasta'in", translation: "Hanya kepada Engkau kami menyembah dan hanya kepada Engkau kami memohon pertolongan" },
-      { arabic: "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ", latin: "Ihdinas-siratal-mustaqim", translation: "Tunjukilah kami jalan yang lurus" },
-      { arabic: "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ", latin: "Siratal-ladzina an'amta 'alaihim", translation: "Yaitu jalan orang-orang yang telah Engkau beri nikmat" },
-      { arabic: "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ", latin: "Gairil-maghdubi 'alaihim wa lad-dallin", translation: "Bukan jalan mereka yang dimurkai dan bukan pula jalan mereka yang sesat" }
+      {
+      arabic: "الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ",
+      latin: "Al-ḥamdu lillāhi rabbil-'ālamīn",
+      translation: "Segala puji bagi Allah, Tuhan seluruh alam"
+      },
+      {
+      arabic: "الرَّحْمٰنِ الرَّحِيْمِ",
+      latin: "Ar-raḥmānir-raḥīm",
+      translation: "Yang Maha Pengasih, Maha Penyayang"
+      },
+      {
+      arabic: "مَالِكِ يَوْمِ الدِّيْنِ",
+      latin: "Māliki yaumid-dīn",
+      translation: "Pemilik hari pembalasan"
+      },
+      {
+      arabic: "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ",
+      latin: "Iyyāka na'budu wa iyyāka nasta'īn",
+      translation: "Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan"
+      },
+      {
+      arabic: "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ",
+      latin: "Ihdinaṣ-ṣirāṭal-mustaqīm",
+      translation: "Tunjukilah kami jalan yang lurus"
+      },
+      {
+      arabic: "صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ",
+      latin: "Ṣirāṭallażīna an'amta 'alaihim",
+      translation: "Yaitu jalan orang-orang yang telah Engkau beri nikmat kepada mereka"
+      },
+      {
+      arabic: "غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّآلِّيْنَ",
+      latin: "Gairil-magḍūbi 'alaihim wa laḍ-ḍāllīn",
+      translation: "Bukan jalan mereka yang dimurkai dan bukan pula jalan mereka yang sesat"
+      }
+
     ],
     totalVerses: 7
   },
